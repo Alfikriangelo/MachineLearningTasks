@@ -1,0 +1,17 @@
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+Silhouette: 0.3064584626954559
+Knee: 0.54
+Davies:0.9615679991384404
+
+Hierarchical
+Silhouette:0.5089445844743498
+Knee: 1
+Daviesl-Bouldin index: 0.6736692203979011
+
+KMeans
+Silhouette:0.52306667
+Knee:3
+Daviesl-Bouldin index: 0.661
+
+
+Berdasarkan hasil Knee, Silhouette, dan Davies-Bouldin Index yang didapatkan dari ketiga model clustering yaitu KMeans, Hierarchical, dan DBSCAN (Density-Based Spatial Clustering of Applications with Noise), maka Model cluster terbaik ialah KMeans
