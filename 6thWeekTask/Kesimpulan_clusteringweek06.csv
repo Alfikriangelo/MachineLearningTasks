@@ -14,4 +14,5 @@ Knee:3
 Daviesl-Bouldin index: 0.661
 
 
-Berdasarkan hasil Knee, Silhouette, dan Davies-Bouldin Index yang didapatkan dari ketiga model clustering yaitu KMeans, Hierarchical, dan DBSCAN (Density-Based Spatial Clustering of Applications with Noise), maka Model cluster terbaik ialah KMeans
+Berdasarkan hasil Knee, Silhouette, dan Davies-Bouldin Index yang didapatkan dari ketiga model clustering yaitu KMeans, Hierarchical, dan DBSCAN (Density-Based Spatial Clustering of Applications with Noise), 
+maka Model cluster terbaik ialah KMeans
