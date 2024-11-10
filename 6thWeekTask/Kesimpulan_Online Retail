@@ -1,0 +1,18 @@
+Kmeans
+Knee Point: 3
+Silhouette Score: 0.4736115555847373
+Davies-Bouldin Index: 0.7421336334122818
+
+Hierarchical:
+Knee Point: none
+Silhouette Score: 0.9895699779509176
+Davies-Bouldin Index: 0.21214147911863565
+
+DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+Knee Point: 33.85191624485769
+Silhouette Score: 0.8034692965017955
+Davies-Bouldin Index:  0.18522154650550254
+
+
+Dari data matriks evaluasi yang kita telah dapatkan maka DBSCAN menjadi clustering yang paling baik karena nilai silhouette paling tinggi dan Davies-Bouldin Index paling rendah.
+Teknik ini cocok untuk data yang lebih kompleks dan besar
